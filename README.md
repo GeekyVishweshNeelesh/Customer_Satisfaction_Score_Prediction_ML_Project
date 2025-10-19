@@ -2,10 +2,6 @@
 
 An advanced machine learning solution that predicts Customer Satisfaction (CSAT) scores for e-commerce businesses using deep learning and gradient boosting techniques. This project implements and compares three ML models (ANN, LSTM, XGBoost) and deploys the best performing model through an interactive Streamlit web application.
 
-
-
-## 📋 Table of Contents
-
 ## 📊 Overview
 
 **DeepCSAT** is an intelligent system that predicts customer satisfaction scores based on 8 key customer interaction features. The project follows a comprehensive ML pipeline:
