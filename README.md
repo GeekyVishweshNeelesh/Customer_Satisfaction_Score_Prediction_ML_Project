@@ -82,7 +82,7 @@ Traditional survey-based approaches are time-consuming and reactive. DeepCSAT us
 - Essential for preprocessing new predictions
 - File size: ~2 KB
 
-#### `ml_model_implementation.ipynb`
+#### `Proj11__DeepCSAT.ipynb`
 - Complete ML pipeline in Jupyter notebook
 - Data preparation and exploration
 - All 3 models implementation (ANN, LSTM, XGBoost)
