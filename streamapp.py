@@ -51,8 +51,8 @@ st.markdown("""
 
 @st.cache_resource
 def load_model_and_scaler():
-    model = joblib.load('/home/vishwesh/Documents/Labmentix_Internship/Project_11/best_xgboost_csat_model.joblib')
-    scaler = joblib.load('/home/vishwesh/Documents/Labmentix_Internship/Project_11/feature_scaler.joblib')
+    model = joblib.load('best_xgboost_csat_model.joblib')
+    scaler = joblib.load('feature_scaler.joblib')
     return model, scaler
 
 model, scaler = load_model_and_scaler()
