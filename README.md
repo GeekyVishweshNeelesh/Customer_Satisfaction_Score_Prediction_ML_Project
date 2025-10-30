@@ -157,7 +157,7 @@ Optimization: GridSearchCV (3-fold CV)
 
 The best-performing XGBoost model has been successfully deployed as a production-ready web application using Streamlit. The deployment process involves saving the trained model and feature scaler as Joblib files for efficient serialization and fast loading. The model is accessible through an interactive web interface that allows both single customer predictions and batch processing via CSV upload. The application is hosted on Streamlit Cloud, providing real-time CSAT predictions with zero infrastructure management. Users can access the deployed model at any time through a simple web browser, making advanced ML predictions accessible to non-technical stakeholders and enabling immediate business decision-making based on customer satisfaction insights.
 
-**Live Demo:** [https://your-app-name.streamlit.app](https://deepcsatproject.streamlit.app/)
+**Live Demo:** [DeepCSAT Customer Satisfaction DSML Project](https://deepcsatproject.streamlit.app/)
 
 **Deployment Platform:** Streamlit Cloud  
 **Model Format:** Joblib (.joblib)  
